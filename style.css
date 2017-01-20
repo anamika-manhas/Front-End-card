@@ -1,0 +1,37 @@
+.sty{
+  width:450px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  box-shadow: 0 10px 50px 0 rgba(0,0,0,0.2);
+  transition: 1s;
+}
+.img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display:block;
+    padding: 0px 0px;
+    margin-bottom: 10px;
+}
+
+.ul{
+
+  font-family: serif;
+  font-style: italic;
+  text-align:left;
+  list-style-type: none;
+  float:left;
+
+
+}
+.nav{
+  font-size: 15px;
+  font-family: cursive;
+  margin: auto;
+  text-align: center;
+  display:block;
+  padding: 0px 0px;
+}
+h1{
+  text-align: center;
+}
